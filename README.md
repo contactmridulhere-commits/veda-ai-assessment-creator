@@ -15,8 +15,8 @@ The frontend is identical in both. Only the data layer + queue swap out.
 
 ## Live demo
 
-🔗 **Live demo:** _(your Vercel URL here)_
-📦 **GitHub:** _(your repo URL here)_
+🔗 **Live demo:** https://veda-ai-assessment-creator-36d2.vercel.app
+📦 **GitHub:** https://github.com/contactmridulhere-commits/veda-ai-assessment-creator
 
 ---
 
